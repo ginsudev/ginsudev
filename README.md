@@ -9,6 +9,4 @@ Skills: Swift / Objective-C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginsudev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/ginsudev)  
-
 
